@@ -1,1 +1,1 @@
-# wifi-password-stealer
+# wifi-pass-extractor
